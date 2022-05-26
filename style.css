@@ -54,7 +54,7 @@ header{
 	width: 100%;
 }
 
-.inner{
+.head{
     max-width: 1080px;
 	margin: 0 auto;
     padding: 1% 6px;
@@ -143,7 +143,7 @@ footer{
 	width: 100%;
 }
 
-.nav2{
+.head2{
 	display: flex;
 	justify-content: space-between;
 	color: black;
